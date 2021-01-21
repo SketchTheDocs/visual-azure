@@ -1,0 +1,115 @@
+baseurl = "https://sketchnote.dev/visual-azure"
+title = "Visual Azure"
+theme = "hugo-coder"
+languageCode = "en-us"
+
+defaultContentLanguage = "en"
+paginate = 20
+
+ 
+# -------------------------------
+# Customization Reference:
+# https://github.com/luizdepra/hugo-coder/wiki/Configurations
+
+[params]
+    author = "Nitya Narasimhan, PhD"
+    description = "A Visual Study Guide To Azure"
+    keywords = "azure, blog, sketchnotes, developer"
+    info = "Cloud Advocate | Visual Storyteller"
+    avatarURL = "images/nitya.png"
+    #gravatar = "hello@sketchnote.dev"
+
+    dateFormat = "January 2, 2006"
+
+    # Footer Configuration
+    footerContent = "A Visual Study Guide For Azure Certification"
+    hideFooter = false
+    hideCredits = true
+    hideCopyright = false
+    since = 2021
+
+    # Specify light/dark colorscheme
+    # Supported values:
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+    colorScheme = "auto"
+
+    # Hide the toggle button, along with the associated vertical divider
+    hideColorSchemeToggle = false
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # Enable Twemoji
+    enableTwemoji = true
+
+    # Custom CSS, SCSS, JS
+    customCSS = []
+    customSCSS = []
+    customJS = []
+
+    # Git Commit in Footer, uncomment the line below to enable it.
+    commit = "https://github.com/luizdepra/hugo-coder/tree/"
+
+    rtl = false
+
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github"
+    weight = 1
+    url = "https://github.com/nitya/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fa fa-twitter"
+    weight = 3
+    url = "https://twitter.com/nitya/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fa fa-linkedin"
+    weight = 4
+    url = "https://www.linkedin.com/in/nityan/"
+[[params.social]]
+    name = "Medium"
+    icon = "fa fa-medium"
+    weight = 5
+    url = "https://medium.com/@nitya"
+
+
+
+# -------------------------------
+# Localization Example Config:
+# https://raw.githubusercontent.com/luizdepra/hugo-coder/master/exampleSite/config.toml
+
+[languages]
+    [languages.en]
+        languageName = "English"
+
+        [languages.en.menu]
+
+            [[languages.en.menu.main]]
+            name = "About"
+            weight = 1
+            url = "about/"
+
+            [[languages.en.menu.main]]
+            name = "Posts"
+            weight = 2
+            url = "posts/"
+
+            [[languages.en.menu.main]]
+            name = "Guide"
+            weight = 3
+            url = "guide/"
+
+            [[languages.en.menu.main]]
+            name = "Contact me"
+            weight = 5
+            url = "contact/"

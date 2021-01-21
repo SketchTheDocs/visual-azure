@@ -1,5 +1,3 @@
-# visual-azure
-A Visual Study Guide to Azure Fundamentals
 # A Visual Study Guide to Azure Fundamentals
 
 
