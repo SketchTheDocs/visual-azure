@@ -52,7 +52,7 @@ title = "Visual Azure"
 theme = "coder"
 ```
 
-Then, look at that theme's download/homepage for information on customization options and update the `www/config.toml` accordingly. 
+Then, look at that theme's download/homepage for information on customization options and update the `www/config.toml` accordingly. For example [this](https://github.com/luizdepra/hugo-coder/wiki/Configurations) is the configuration guide for Coder and [this](https://github.com/luizdepra/hugo-coder/blob/master/exampleSite/config.toml) is a sample from the exampleSite.
 
 ---
 

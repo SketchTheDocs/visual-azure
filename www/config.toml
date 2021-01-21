@@ -6,7 +6,9 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = 20
 
- 
+# Build target directory defined
+publishdir = "../docs" 
+
 # -------------------------------
 # Customization Reference:
 # https://github.com/luizdepra/hugo-coder/wiki/Configurations
