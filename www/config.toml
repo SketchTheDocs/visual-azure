@@ -19,6 +19,8 @@ publishdir = "../docs"
     keywords = "azure, blog, sketchnotes, developer"
     info = "Cloud Advocate | Visual Storyteller"
     avatarURL = "images/nitya.png"
+    favicon_32 = "images/favicon-32.png"
+    favicon_16 = "images/favicon-16.png"
     #gravatar = "hello@sketchnote.dev"
 
     dateFormat = "January 2, 2006"
