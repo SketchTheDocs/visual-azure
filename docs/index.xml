@@ -35,12 +35,13 @@
     </item>
     
     <item>
-      <title>About Visual Azure</title>
+      <title>About This Project</title>
       <link>https://sketchnote.dev/visual-azure/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sketchnote.dev/visual-azure/about/</guid>
-      <description>#About #VisualAzure</description>
+      <description>Hello, and welcome to #VisualAzure &amp;ndash; a project to build a Visual Study Guide for Azure Fundamentals and more, with the added purpose of also providing a quick and easy review guide for those seeking relevant Certification in one or more categories.
+Azure Fundamentals The main purpose of this site is to help everyone, especially beginners, get a more comprehensive understanding of the cloud computing space, using the Microsoft Azure platform as a reference point for describing relevant terminology, concepts and solutions for developers.</description>
     </item>
     
   </channel>
