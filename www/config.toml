@@ -51,9 +51,7 @@ publishdir = "../docs"
     customSCSS = []
     customJS = []
 
-    # Git Commit in Footer, uncomment the line below to enable it.
-    commit = "https://github.com/luizdepra/hugo-coder/tree/"
-
+    # Right To Left
     rtl = false
 
 
@@ -97,21 +95,21 @@ publishdir = "../docs"
         [languages.en.menu]
 
             [[languages.en.menu.main]]
-            name = "About"
-            weight = 1
-            url = "about/"
-
-            [[languages.en.menu.main]]
             name = "Posts"
-            weight = 2
+            weight = 1
             url = "posts/"
 
             [[languages.en.menu.main]]
             name = "Guide"
-            weight = 3
+            weight = 2
             url = "guide/"
 
             [[languages.en.menu.main]]
-            name = "Contact me"
+            name = "About"
+            weight = 3
+            url = "about/"
+
+            [[languages.en.menu.main]]
+            name = "Contact"
             weight = 5
             url = "contact/"

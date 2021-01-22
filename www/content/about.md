@@ -1,5 +1,5 @@
 +++
-title = "About Hugo"
+title = "About Visual Azure"
 slug = "about"
 +++
 

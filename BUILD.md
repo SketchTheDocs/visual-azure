@@ -85,3 +85,23 @@ $ hugo -D
 `Note`: Go into the GitHub Settings for gh-pages and point it to the "docs/" folder. You static website is now automatically hosted at the GitHub Pages endpoint for this repo.
 
 
+
+## Maintenance
+
+Simply add content into the relevant subfolders using something of the form below, where `xxxxx` is a slug that is unique to the site.
+
+```
+$ hugo new posts/xxxxx.md
+```
+
+This generates a new file under the `content/posts` directory. If your local server was running, the changes should show up instantly in the browser (hot reload).
+
+To build/deploy, the current process is manual. Simply run the command below to get the `docs/` target directory updated. Then commit the changes to GitHub, which will auto-refresh the static GH Pages deployment endpoint.
+
+```
+$ cd www/
+$ hugo -D
+```
+
+`TODO:` Automate this step with GitHub Actions.
+
