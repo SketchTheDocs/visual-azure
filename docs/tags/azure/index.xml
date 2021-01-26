@@ -8,12 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Jan 2021 18:38:42 -0500</lastBuildDate><atom:link href="https://sketchnote.dev/visual-azure/tags/azure/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello, Visual Learner!</title>
+      <title>Let&#39;s Learn Together!</title>
       <link>https://sketchnote.dev/visual-azure/posts/hello-visual-learner/</link>
       <pubDate>Thu, 21 Jan 2021 18:38:42 -0500</pubDate>
       
       <guid>https://sketchnote.dev/visual-azure/posts/hello-visual-learner/</guid>
-      <description>Hello, and welcome!</description>
+      <description>Setting the Stage! Yes, it’s 2021. We’re already a month into the New Year! And if you are like me and many others, you’ve probably made a resolution to learn something new, or skill up on something you already have experience with.
+My 2021 resolution:
+Learn all things Azure by completing all Fundamentals learning paths and validating my knowledge with relevant certfications! Specifically, these three &amp;ndash; in this order.
+ AZ-900 | Azure Fundamentals - for core cloud computing concepts DP-900 | Azure Data Fundamentals - for relational and non-relational data workloads AI-900 | Azure AI Fundamentals - for machine learning and AI workloads  Why do this?</description>
     </item>
     
   </channel>

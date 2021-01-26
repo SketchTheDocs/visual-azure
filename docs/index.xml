@@ -8,14 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Jan 2021 18:38:42 -0500</lastBuildDate><atom:link href="https://sketchnote.dev/visual-azure/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Get In Touch</title>
-      <link>https://sketchnote.dev/visual-azure/contact/</link>
-      <pubDate>Thu, 21 Jan 2021 18:44:20 -0500</pubDate>
+      <title>Join The Community!</title>
+      <link>https://sketchnote.dev/visual-azure/community/</link>
+      <pubDate>Tue, 26 Jan 2021 12:28:20 -0500</pubDate>
       
-      <guid>https://sketchnote.dev/visual-azure/contact/</guid>
-      <description>Feedback is Welcome!
-Why get in touch? Part of my reason for creating and sharing these visual notes is to help others like me who are making the same learning journeys. My initial goal is to just keep shipping things - not waiting to make them perfect.
-But as I keep going, and get into the habit, I definitely want to add or update content that addresses any gaps or corrects any misconceptions that I may have inadvertently promoted.</description>
+      <guid>https://sketchnote.dev/visual-azure/community/</guid>
+      <description>Having a study group can help you progress in your learning goals in two ways. First, by giving you a sense of accountability that ensures you keep making progress. Second, by creating a sense of belonging (in a shared journey toward certifications) that can lead to new insights and friendships.
+I&amp;rsquo;m exploring GitHub Discussion Forums to bring that sense of community to this project. Want to join the conversations? Please do start by introducing yourself and share your learning objectives.</description>
     </item>
     
     <item>
@@ -24,27 +23,30 @@ But as I keep going, and get into the habit, I definitely want to add or update 
       <pubDate>Thu, 21 Jan 2021 18:44:20 -0500</pubDate>
       
       <guid>https://sketchnote.dev/visual-azure/guide/</guid>
-      <description>Azure Fundamentals The initial focus is on the Certification options for beginners focused on Azure Fundamentals.
- AZ-900: Azure Fundamentals DP-900: Azure Data Fundamentals AI-900: Azure AI Fundamentals  Each of these options has a set of related learning paths, that we can use for the initial sketchnote calendar. Each learning path has several modules - with each module consisting of multiple units. The goal is to have at least one sketchnote per module, though we may have one per unit if the topic warrants it.</description>
+      <description>Using The Guide Use the guide in three ways:
+ Pre-view Content | Use the sketchnote as a glanceable resource to get context for the terminology and topics related to the linked module or unit &amp;ndash; then visit the link to complete the content for yourself. You might find it helps you uncover new insights, or reinforce connections you&amp;rsquo;d made. Pre-exam Review | Use the sketchnote for quick review of materials when prepping for certification.</description>
     </item>
     
     <item>
-      <title>Hello, Visual Learner!</title>
+      <title>Let&#39;s Learn Together!</title>
       <link>https://sketchnote.dev/visual-azure/posts/hello-visual-learner/</link>
       <pubDate>Thu, 21 Jan 2021 18:38:42 -0500</pubDate>
       
       <guid>https://sketchnote.dev/visual-azure/posts/hello-visual-learner/</guid>
-      <description>Hello, and welcome!</description>
+      <description>Setting the Stage! Yes, it’s 2021. We’re already a month into the New Year! And if you are like me and many others, you’ve probably made a resolution to learn something new, or skill up on something you already have experience with.
+My 2021 resolution:
+Learn all things Azure by completing all Fundamentals learning paths and validating my knowledge with relevant certfications! Specifically, these three &amp;ndash; in this order.
+ AZ-900 | Azure Fundamentals - for core cloud computing concepts DP-900 | Azure Data Fundamentals - for relational and non-relational data workloads AI-900 | Azure AI Fundamentals - for machine learning and AI workloads  Why do this?</description>
     </item>
     
     <item>
-      <title>About This Project</title>
+      <title>About #VisualAzure</title>
       <link>https://sketchnote.dev/visual-azure/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sketchnote.dev/visual-azure/about/</guid>
-      <description>Hello, and welcome to #VisualAzure &amp;ndash; a project to build a Visual Study Guide for Azure Fundamentals and more, with the added purpose of also providing a quick and easy review guide for those seeking relevant Certification in one or more categories.
-Azure Fundamentals The main purpose of this site is to help everyone, especially beginners, get a more comprehensive understanding of the cloud computing space, using the Microsoft Azure platform as a reference point for describing relevant terminology, concepts and solutions for developers.</description>
+      <description>VisualAzure is a project with three primary objectives:
+ Consistency | Build a visual vocabulary (colors, icons, metaphors) for Azure. Content | Use the vocabulary to create a visual study guide for Certification. Community | Support community learning and sharing with a discussion forum.  The secondary objective &amp;ndash; create awareness of visual storytelling processes and resources, and inspire other learners to create and share their own sketchnotes. By sharing and remixing such resources, we can gain more insights and improve our collective understanding and usage of cloud computing.</description>
     </item>
     
   </channel>
