@@ -107,11 +107,11 @@ publishdir = "../docs"
             url = "guide/"
 
             [[languages.en.menu.main]]
-            name = "About"
+            name = "Community"
             weight = 3
-            url = "about/"
+            url = "community/"
 
             [[languages.en.menu.main]]
-            name = "Contact"
-            weight = 5
-            url = "contact/"
+            name = "About"
+            weight = 4
+            url = "about/"
