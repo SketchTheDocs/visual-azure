@@ -14,6 +14,9 @@ VisualAzure is a visual storytelling project with three objectives:
 *What is a visual study guide?* | A study guide is a resource for exam preparation that organizes information, defines a clear vocabulary, and provides options for practicing ideas or doing deeper dives into concepts. With the visual study guide the goal is to supplement these notes with visuals that summarize or synthesize larger sections of text. 
 Check [Posts](https://sketchthedocs.dev/visual-azure/posts/) for sketchnotes linked to specific modules or submodule units.
 
+
+{{< figure src="/visual-azure/images/base/banner.png" caption="A Visual Study Guide To Azure Services and Cloud Computing Concepts" >}}
+
 *How can you use the study guide?* | There is no substitute for completing the learning paths, and taking the practice exams, to build your own understanding and prep for exams. This guide can help in three ways:
  - `Pre-Path Review` | Quickly scan the sketchnote before you dive into the related module or unit. It can help set context for terminology or workflows, and help you process the informartion faster. It might also help you "see" new connections or reinforce existing ones.
  - `Post-Path Notes`| Writing things down always helps with clarity and recall. Think about creating your own notes (visual or text) as you review the path. Use the visual vocabulary from the sketchnote as inspiration to build on and strengthen the connections your mind has already made.

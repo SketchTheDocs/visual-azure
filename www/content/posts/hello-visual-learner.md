@@ -34,22 +34,30 @@ Thanks to increased remote work opportunities, there's never been a better time 
 
 **What is Visual Azure?**
 
-Learn more about the project [here](https://sketchthedocs.dev/visual-azure/about/). I'm doing three things on this site, to keep me focused on those goals.
+Think of it as a visual study guide, where I capture sketchnotes on things I learn, which can then help me review materials (and recall them more easily) when it's time for exam prep. And, hopefully share this with community as a study resource for their own learning journeys.
+Learn more about the project [here](/visual-azure/about/). 
 
- * `Visual Study Notes` | Create a sketchnote per core module or unit - to support exam prep.
- * `Regular Study Habits` | Share sketchnote & learnings in a daily post - to stay accountable.
- * `Community Discussion Forums`| Create and participate in open discussions - to share learning.
+It basically comes down to three things I want to do, to support my learning goals:
 
-Having a habit tracker - something that creates a "streak" from study activity -- can help motivate you to keep going ("don't break that streak!"). My habit tracker task is to sketch-and-share on a daily basis. Think of doing something similar to keep you accountable.
+ * `Visual Study Notes` | Create sketchnotes mapping to [required skills](https://github.com/SketchTheDocs/visual-azure/blob/main/RESOURCES.md) - support exam prep.
+ * `Regular Study Habits` | Share sketchnote & learnings in [daily posts](http://localhost:1313/visual-azure/posts/) - stay accountable.
+ * `Community Discussion Forums`| Create and participate in [open discussions](https://github.com/SketchTheDocs/visual-azure/discussions) - share learning.
 
+Anything involving self-study requires good habits to stay focused and motivated. Habit trackers that create "streaks" from an activity are known to be effective (because we don't want to break a streak). 
+
+So a motivation for me is to use this blog to stay accountable by learning, sketching and sharing _something_ every day. Not everything will be perfect, and I may do more on some days than others - but the goal is to _keep shipping_ and come back to clean up later.
+
+{{< figure src="/visual-azure/images/az900/AZ900-paths.png" caption="A Visual Guide to AZ-900 Learning Paths and Modules" >}}
 
 ## Want to Join Me?
 
- Let's Learn Together! Here are three things you can do to join in this 2021 Learning Resolution!
+
+Consider doing something similar to keep yourself accountable to your learning goals. Why not join me? Here are three things you can do to commit to a 2021 From-Learning-to-Certification goal!
+
   * [Bookmark the Guide](https://sketchthedocs.dev/visual-azure/guide/) - explore the learning paths at your own pace!
   * [Join the Community](https://github.com/SketchTheDocs/visual-azure/discussions) - say hello, share your learning goals, post feedback!
-  * [Set a Daily Routine](https://sketchthedocs.dev/visual-azure/posts/) - check my daily post, then review related modules - and share your learnings.
+  * [Set a Daily Routine](https://sketchthedocs.dev/visual-azure/posts/) - look for my posts for ideas, share your own or set a different habit.
 
-Sharing your progress (and celebrating wins big and small) is key! 
+Sharing your progress (and celebrating wins big and small) helps! Feel free to start a [Discussion](https://github.com/SketchTheDocs/visual-azure/discussions), or share your own posts (sketchnotes or articles) on social media - and tag me (@nitya) or use #VisualAzure. I'd love to follow your learning journeys and amplify your insights! 
 
-Post to a relevant [Discussion](https://github.com/SketchTheDocs/visual-azure/discussions) thread here, or tag your post with #VisualAzure (or @nitya) on Twitter. I'd love to read your posts and amplify learning resources! Just one thing left to say - #LetsDoThis
+Happy Trails!
