@@ -2,36 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visual Azure</title>
-    <link>https://cloud-skills.dev/</link>
+    <link>https://sketchnote.dev/visual-azure/</link>
     <description>Recent content on Visual Azure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Jan 2021 08:14:48 -0500</lastBuildDate><atom:link href="https://cloud-skills.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 -0500</lastBuildDate><atom:link href="https://sketchnote.dev/visual-azure/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Azure Fundamentals: Introduction</title>
-      <link>https://cloud-skills.dev/posts/az900-intro/</link>
-      <pubDate>Wed, 27 Jan 2021 08:14:48 -0500</pubDate>
+      <title>Let&#39;s Learn Together!</title>
+      <link>https://sketchnote.dev/visual-azure/posts/hello-visual-learner/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 -0500</pubDate>
       
-      <guid>https://cloud-skills.dev/posts/az900-intro/</guid>
-      <description></description>
+      <guid>https://sketchnote.dev/visual-azure/posts/hello-visual-learner/</guid>
+      <description>Yes, it’s 2021. We’re already a month into the New Year! And if you are like me and many others, you’ve probably made a resolution to learn something new, or skill up on something you already have experience with.
+  Visual Azure
+  My 2021 resolution:
+Learn all things Azure by completing all Fundamentals learning paths and validating my knowledge with relevant certfications! Specifically, these three &amp;ndash; in this order.</description>
     </item>
     
     <item>
       <title>Join The Community!</title>
-      <link>https://cloud-skills.dev/community/</link>
+      <link>https://sketchnote.dev/visual-azure/community/</link>
       <pubDate>Tue, 26 Jan 2021 12:28:20 -0500</pubDate>
       
-      <guid>https://cloud-skills.dev/community/</guid>
+      <guid>https://sketchnote.dev/visual-azure/community/</guid>
       <description>Having a study group or learning community can help you progress in your learning goals in two ways. First, by giving you a sense of accountability that ensures you keep making progress. Second, by creating a sense of belonging (in a shared journey toward certifications) that can lead to new insights and friendships.
 I&amp;rsquo;m exploring GitHub Discussion Forums to support community interactions around this project. Want to join the conversations? Please do start by introducing yourself and share your learning objectives.</description>
     </item>
     
     <item>
       <title>Visual Guide</title>
-      <link>https://cloud-skills.dev/guide/</link>
+      <link>https://sketchnote.dev/visual-azure/guide/</link>
       <pubDate>Thu, 21 Jan 2021 18:44:20 -0500</pubDate>
       
-      <guid>https://cloud-skills.dev/guide/</guid>
+      <guid>https://sketchnote.dev/visual-azure/guide/</guid>
       <description>Learning Roadmap We&amp;rsquo;ll start with these Beginner-Friendly Certifications for Azure.
  AZ-900: Azure Fundamentals DP-900: Azure Data Fundamentals AI-900: Azure AI Fundamentals  Each certification lists the recommended learning paths for preparation (see below).
  1. Azure Fundamentals: AZ-900  LEARNING PATHS
@@ -39,23 +42,11 @@ I&amp;rsquo;m exploring GitHub Discussion Forums to support community interactio
     </item>
     
     <item>
-      <title>Let&#39;s Learn Together!</title>
-      <link>https://cloud-skills.dev/posts/hello-visual-learner/</link>
-      <pubDate>Thu, 21 Jan 2021 18:38:42 -0500</pubDate>
-      
-      <guid>https://cloud-skills.dev/posts/hello-visual-learner/</guid>
-      <description>Setting the Stage! Yes, it’s 2021. We’re already a month into the New Year! And if you are like me and many others, you’ve probably made a resolution to learn something new, or skill up on something you already have experience with.
-My 2021 resolution:
-Learn all things Azure by completing all Fundamentals learning paths and validating my knowledge with relevant certfications! Specifically, these three &amp;ndash; in this order.
- AZ-900 | Azure Fundamentals - for core cloud computing concepts DP-900 | Azure Data Fundamentals - for relational and non-relational data workloads AI-900 | Azure AI Fundamentals - for machine learning and AI workloads  Why do this?</description>
-    </item>
-    
-    <item>
       <title>About #VisualAzure</title>
-      <link>https://cloud-skills.dev/about/</link>
+      <link>https://sketchnote.dev/visual-azure/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cloud-skills.dev/about/</guid>
+      <guid>https://sketchnote.dev/visual-azure/about/</guid>
       <description>VisualAzure is a visual storytelling project with three objectives:
  Consistency | Build a visual vocabulary for Azure &amp;ndash; starting with Azure Fundamentals . Content | Create a visual study guide for Azure Certifications - starting with AZ-900. Community | Support learning conversations using the related Discussions forum.  What is a visual vocabulary? | A visual vocabulary uses graphical elements (images, iconography, typography, composition) to communicate ideas or concepts to an audience.</description>
     </item>

@@ -11,9 +11,10 @@ externalLink = ""
 series = ["Visual Azure"]
 +++
 
-## Setting the Stage!
+Yes, it’s 2021. We’re already a month into the New Year! And if you are like me and many others, you’ve probably made a resolution to learn something new, or skill up on something you already have experience with. 
 
-Yes, it’s 2021. We’re already a month into the New Year! And if you are like me and many others, you’ve probably made a resolution to learn something new, or skill up on something you already have experience with.
+{{< figure src="/images/base/banner.png" caption="Visual Azure" >}}
+
 
 **My 2021 resolution:** 
 
