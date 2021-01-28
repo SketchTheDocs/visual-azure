@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ai900 on Visual Azure</title>
+    <link>https://cloud-skills.dev/tags/ai900/</link>
+    <description>Recent content in ai900 on Visual Azure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Jan 2021 18:38:42 -0500</lastBuildDate><atom:link href="https://cloud-skills.dev/tags/ai900/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let&#39;s Learn Together!</title>
+      <link>https://cloud-skills.dev/posts/hello-visual-learner/</link>
+      <pubDate>Thu, 21 Jan 2021 18:38:42 -0500</pubDate>
+      
+      <guid>https://cloud-skills.dev/posts/hello-visual-learner/</guid>
+      <description>Setting the Stage! Yes, it’s 2021. We’re already a month into the New Year! And if you are like me and many others, you’ve probably made a resolution to learn something new, or skill up on something you already have experience with.
+My 2021 resolution:
+Learn all things Azure by completing all Fundamentals learning paths and validating my knowledge with relevant certfications! Specifically, these three &amp;ndash; in this order.
+ AZ-900 | Azure Fundamentals - for core cloud computing concepts DP-900 | Azure Data Fundamentals - for relational and non-relational data workloads AI-900 | Azure AI Fundamentals - for machine learning and AI workloads  Why do this?</description>
+    </item>
+    
+  </channel>
+</rss>

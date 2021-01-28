@@ -1,11 +1,11 @@
 +++ 
-draft = false
-date = 2021-01-21T18:38:42-05:00 
+draft = true
+date = 2021-01-28
 title = "Let's Learn Together!"
 description = "Welcome to the Visual Study Guide For Azure!"
 slug = "hello-visual-learner"
 authors = ["nitya"]
-tags = ["azure", "certification", "sketchnote"]
+tags = ["az900","ai900","dp900"]
 categories = ["general"]
 externalLink = ""
 series = ["Visual Azure"]
@@ -31,14 +31,15 @@ Thanks to increased remote work opportunities, there's never been a better time 
  * `Experience` | Learn paths have Azure sandbox environments. Getting hands-on experience helps!
  * `Certification` | Validate your knowledge with exams. Getting a professional credential helps!
 
-**How can you start?**
+**What is Visual Azure?**
 
-With the [Visual Study Guide](https://sketchthedocs.dev/visual-azure/about/) project, I'm doing three things to keep me focused on the goal:
- * `Visual Study Notes` - I'll create one sketchnote per unit or module to help with exam prep.
- * `Regular Study Habits` - I'll share one post a day (with sketchnote) to build accountability
- * `Peer Study Forums` - I created a discussion forum to share resources, get/give feedback & help others.
+Learn more about the project [here](https://sketchthedocs.dev/visual-azure/about/). I'm doing three things on this site, to keep me focused on those goals.
 
-Having a habit tracker - something that creates a "streak" from study activity -- can help motivate you to keep going ("don't break that streak!"). My habit tracker task is to sketch-and-share on a daily basis. Think of doing something similar. I have some ideas!
+ * `Visual Study Notes` | Create a sketchnote per core module or unit - to support exam prep.
+ * `Regular Study Habits` | Share sketchnote & learnings in a daily post - to stay accountable.
+ * `Community Discussion Forums`| Create and participate in open discussions - to share learning.
+
+Having a habit tracker - something that creates a "streak" from study activity -- can help motivate you to keep going ("don't break that streak!"). My habit tracker task is to sketch-and-share on a daily basis. Think of doing something similar to keep you accountable.
 
 
 ## Want to Join Me?

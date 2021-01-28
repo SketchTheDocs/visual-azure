@@ -3,82 +3,112 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sketchnote.dev/visual-azure/community/</loc>
+    <loc>https://cloud-skills.dev/authors/</loc>
+    <lastmod>2021-01-27T08:14:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloud-skills.dev/tags/az900/</loc>
+    <lastmod>2021-01-27T08:14:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloud-skills.dev/series/az900-study-guide/</loc>
+    <lastmod>2021-01-27T08:14:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloud-skills.dev/categories/azure/</loc>
+    <lastmod>2021-01-27T08:14:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloud-skills.dev/posts/az900-intro/</loc>
+    <lastmod>2021-01-27T08:14:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloud-skills.dev/categories/</loc>
+    <lastmod>2021-01-27T08:14:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloud-skills.dev/categories/fundamentals/</loc>
+    <lastmod>2021-01-27T08:14:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloud-skills.dev/authors/nitya/</loc>
+    <lastmod>2021-01-27T08:14:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloud-skills.dev/posts/</loc>
+    <lastmod>2021-01-27T08:14:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloud-skills.dev/tags/roadmap/</loc>
+    <lastmod>2021-01-27T08:14:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloud-skills.dev/series/</loc>
+    <lastmod>2021-01-27T08:14:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloud-skills.dev/tags/sketchnote/</loc>
+    <lastmod>2021-01-27T08:14:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloud-skills.dev/tags/</loc>
+    <lastmod>2021-01-27T08:14:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloud-skills.dev/</loc>
+    <lastmod>2021-01-27T08:14:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloud-skills.dev/community/</loc>
     <lastmod>2021-01-26T12:28:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sketchnote.dev/visual-azure/guide/</loc>
+    <loc>https://cloud-skills.dev/guide/</loc>
     <lastmod>2021-01-21T18:44:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sketchnote.dev/visual-azure/authors/</loc>
+    <loc>https://cloud-skills.dev/tags/ai900/</loc>
     <lastmod>2021-01-21T18:38:42-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sketchnote.dev/visual-azure/tags/azure/</loc>
+    <loc>https://cloud-skills.dev/tags/dp900/</loc>
     <lastmod>2021-01-21T18:38:42-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sketchnote.dev/visual-azure/categories/</loc>
+    <loc>https://cloud-skills.dev/categories/general/</loc>
     <lastmod>2021-01-21T18:38:42-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sketchnote.dev/visual-azure/tags/certification/</loc>
+    <loc>https://cloud-skills.dev/posts/hello-visual-learner/</loc>
     <lastmod>2021-01-21T18:38:42-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sketchnote.dev/visual-azure/categories/general/</loc>
+    <loc>https://cloud-skills.dev/series/visual-azure/</loc>
     <lastmod>2021-01-21T18:38:42-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sketchnote.dev/visual-azure/posts/hello-visual-learner/</loc>
-    <lastmod>2021-01-21T18:38:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sketchnote.dev/visual-azure/authors/nitya/</loc>
-    <lastmod>2021-01-21T18:38:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sketchnote.dev/visual-azure/posts/</loc>
-    <lastmod>2021-01-21T18:38:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sketchnote.dev/visual-azure/series/</loc>
-    <lastmod>2021-01-21T18:38:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sketchnote.dev/visual-azure/tags/sketchnote/</loc>
-    <lastmod>2021-01-21T18:38:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sketchnote.dev/visual-azure/tags/</loc>
-    <lastmod>2021-01-21T18:38:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sketchnote.dev/visual-azure/series/visual-azure/</loc>
-    <lastmod>2021-01-21T18:38:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sketchnote.dev/visual-azure/</loc>
-    <lastmod>2021-01-21T18:38:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sketchnote.dev/visual-azure/about/</loc>
+    <loc>https://cloud-skills.dev/about/</loc>
   </url>
   
 </urlset>
