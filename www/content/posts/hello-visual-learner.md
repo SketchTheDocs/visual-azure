@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2021-01-28
 title = "Let's Learn Together!"
 description = "Welcome to the Visual Study Guide For Azure!"

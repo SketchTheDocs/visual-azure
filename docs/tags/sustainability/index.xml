@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sustainability on Visual Azure</title>
+    <link>https://sketchnote.dev/visual-azure/tags/sustainability/</link>
+    <description>Recent content in sustainability on Visual Azure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Feb 2021 16:11:42 -0500</lastBuildDate><atom:link href="https://sketchnote.dev/visual-azure/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#1: A Visual Guide To Sustainable Software Engineering</title>
+      <link>https://sketchnote.dev/visual-azure/posts/visual-guide-to-sse/</link>
+      <pubDate>Wed, 10 Feb 2021 16:11:42 -0500</pubDate>
+      
+      <guid>https://sketchnote.dev/visual-azure/posts/visual-guide-to-sse/</guid>
+      <description>RESOURCES TO EXPLORE  Start Here: Principles of Sustainable Software Engineering UNESCO: Sustainable Engineering Sustainable Software Blog Sustainability @Microsoft 2020 Sustainability Announcement 2020 Environmental Sustainability Report Cloud Adoption Framework: Sustainability Outcomes and Benefits Sustainable Software Engineering Principles in AKS  What does Sustainability Mean? According to UNESCO, sustainable engineering is the process of using resources in a way that does not compromise the environment or deplete the materials for future generations.</description>
+    </item>
+    
+  </channel>
+</rss>
