@@ -9,6 +9,15 @@ paginate = 20
 # Build target directory defined
 publishdir = "../docs" 
 
+
+# -------------------------------
+# Trying out inserting of raw html
+# See: https://tangenttechnologies.ca/blog/hugo-shortcodes/
+# -------------------------------
+[markup]
+  [markup.goldmark.renderer]
+    unsafe=true
+
 # -------------------------------
 # Customization Reference:
 # https://github.com/luizdepra/hugo-coder/wiki/Configurations

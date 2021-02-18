@@ -24,6 +24,19 @@ series = ["Visual GreenTech"]
  * [Sustainable Software Engineering Principles in AKS](https://docs.microsoft.com/en-us/azure/aks/concepts-sustainable-software-engineering?WT.mc_id=mobile-15747-ninarasi) 
  
 
+<!-- See Guidance: https://www.w3schools.com/htmL/html_images_imagemap.asp -->
+<img src="https://cloud-skills.dev/gallery/GreenTech-1-SustainabilityPrinciples.png" usemap="#sketchnote">
+
+<map name="sketchnote">
+    <area shape="circle" coords="0,0,300" target="_blank" alt="Principles Module" title="Principles Module" href="https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/?WT.mc_id=mobile-15747-ninarasi">
+    <area shape="circle" coords="500,0,300" target="_blank" alt="Philosophy" title="Philosophy" href="https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/3-carbon?WT.mc_id=mobile-15747-ninarasi">
+    <area shape="circle" coords="1000,300,300" target="_blank" alt="Carbon" title="Carbon" href="https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/3-carbon?WT.mc_id=mobile-15747-ninarasi">
+    <area shape="circle" coords="500,500,200" target="_blank" alt="Carbon Intensity" title="Carbon Intensity" href="https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/5-carbon-intensity?WT.mc_id=mobile-15747-ninarasi">
+    <area shape="circle" coords="1000,700,300" target="_blank" alt="Electricity" title="Electricity" href="https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/4-electricity?WT.mc_id=mobile-15747-ninarasi">
+    https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/2-overview
+</map>
+
+
 
 ## What does Sustainability Mean?
 According to UNESCO, [sustainable engineering](http://www.unesco.org/new/en/natural-sciences/science-technology/engineering/sustainable-engineering/) is the process  of using resources in a way that _does not compromise the environment or deplete the materials for future generations_. By definition, this requires an interdisciplinary approach across multiple engineering fields.
