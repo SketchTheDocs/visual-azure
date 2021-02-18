@@ -33,9 +33,9 @@ series = ["Visual GreenTech"]
     <area shape="circle" coords="1000,300,300" target="_blank" alt="Carbon" title="Carbon" href="https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/3-carbon?WT.mc_id=mobile-15747-ninarasi">
     <area shape="circle" coords="500,500,200" target="_blank" alt="Carbon Intensity" title="Carbon Intensity" href="https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/5-carbon-intensity?WT.mc_id=mobile-15747-ninarasi">
     <area shape="circle" coords="1000,700,300" target="_blank" alt="Electricity" title="Electricity" href="https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/4-electricity?WT.mc_id=mobile-15747-ninarasi">
-    https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/2-overview
 </map>
 
+---
 
 
 ## What does Sustainability Mean?
