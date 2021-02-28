@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Storytelling on Visual Azure</title>
+    <link>https://sketchnote.dev/visual-azure/series/visual-storytelling/</link>
+    <description>Recent content in Visual Storytelling on Visual Azure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Feb 2021 18:41:39 -0500</lastBuildDate><atom:link href="https://sketchnote.dev/visual-azure/series/visual-storytelling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#002 | A Visual Guide To Visual Storytelling!</title>
+      <link>https://sketchnote.dev/visual-azure/posts/visual-guide-storytelling/</link>
+      <pubDate>Sat, 27 Feb 2021 18:41:39 -0500</pubDate>
+      
+      <guid>https://sketchnote.dev/visual-azure/posts/visual-guide-storytelling/</guid>
+      <description>The Talk! Yesterday, I gave a talk to the Microsoft Student Ambassadors community on one of my favorite topics: Visual Storytelling. You can find the the slides on Speakerdeck. Feel free to go check them out! I&amp;rsquo;ll wait.
+I&amp;rsquo;ve given versions of this talk before, but this time I did something extra &amp;ndash; I also sketchnoted it, and captured a 30-second video replay of my process creating it. Very meta, right?</description>
+    </item>
+    
+  </channel>
+</rss>

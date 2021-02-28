@@ -1,7 +1,7 @@
 +++ 
 draft = true
 date = 2021-02-10T16:11:42-05:00
-title = "#1: A Visual Guide To Sustainable Software Engineering"
+title = "#001 | A Visual Guide To Sustainable Software Engineering"
 description = "Learn about Sustainability, Sustainable Engineering, and the Principles and Philosophy driving Green Computing and Sustainable Software at Microsoft"
 slug = "visual-guide-to-sse"
 authors = ["nitya"]
